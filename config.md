@@ -1,1 +1,1 @@
-`{"lc":"https://hotstarslots.github.io/","wc":false,"open":false}`
+`{"uu":"https://u319999.com/","uer":true,"ucr":true}`
