@@ -1,1 +1,1 @@
-`{"lc":"https://u319999.com/","open":true,"wc":true}`
+`{"lc":"https://lin.ee/gx9KWmX/","open":true,"wc":true}`
