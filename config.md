@@ -1,1 +1,1 @@
-`{"lc":"https://pxj00.com","open":false,"wc":true}`
+`{"lc":"https://pxj00.com","open":true,"wc":true}`
